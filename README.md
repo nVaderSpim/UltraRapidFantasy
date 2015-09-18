@@ -16,6 +16,4 @@ Click a champion icon/button in the scroll area in the center of the window to s
 
 At this point, data will be pulled from the Riot API to score the game.  After data collection is completed, a table will be shown to display each champion's scores.  Upon closing the table window, a message box will display the team's final scores and declare the winner, at which point the players can choose to start a new game or exit.
 
-This was a pretty fun project, I enjoyed the opportunity to get more familiar with Python.  I hope you enjoy it!  Demonstration video available at: https://www.youtube.com/watch?v=tmqzwzZ20K0
-
-Ultra Rapid Fantasy isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
+Ultra Rapid Fantasy isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends Â© Riot Games, Inc.
